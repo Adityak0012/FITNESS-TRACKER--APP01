@@ -13,3 +13,6 @@ BATCH DURATION: January 5th, 2025 to February 5th, 2025.
 MENTOR NAME: NEELA SANTOSH
 
 OUTPUT OF THE CODE:
+
+![1-Workout_Exercises](https://github.com/user-attachments/assets/a1349258-b211-4c55-8a2e-d1242fb6427c)
+
